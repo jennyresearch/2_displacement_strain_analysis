@@ -1,0 +1,37 @@
+# Core scientific computing
+numpy>=1.21.0
+pandas>=1.3.0
+scipy>=1.7.0
+
+# Visualization
+matplotlib>=3.4.0
+seaborn>=0.11.0
+plotly>=5.0.0
+
+# Machine Learning (for advanced analysis)
+scikit-learn>=1.0.0
+
+# Geospatial analysis (optional, for coordinate transformations)
+geopandas>=0.9.0
+
+# Jupyter ecosystem
+jupyter>=1.0.0
+ipykernel>=6.0.0
+ipywidgets>=7.6.0
+
+# Image processing (for working with ImageJ data)
+opencv-python>=4.5.0
+Pillow>=8.0.0
+
+# Statistical analysis
+statsmodels>=0.12.0
+
+# Performance optimization
+numba>=0.54.0
+
+# File I/O
+openpyxl>=3.0.0
+xlrd>=2.0.0
+
+# Progress bars for long computations
+tqdm>=4.60.0
